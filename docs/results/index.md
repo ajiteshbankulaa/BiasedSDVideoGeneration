@@ -1,11 +1,9 @@
 # Results
 
-Attach notable figures/tables here with short captions. Place exported files in the folders below.
+This page hosts the tables and data around the project:
 
-- `figures/` — PNG/SVG output from experiments
-- `tables/` — CSV metrics (e.g., FID, LPIPS, optical-flow error, drift score)
-- `reports/` — Generated markdown or HTML reports summarizing runs
+#Direct link to the folder holding all the data:
 
-Example figure embed (replace with a real file):
 
-![Placeholder figure](../assets/placeholder_figure.png)
+# Tabels/figures:
+
