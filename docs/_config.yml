@@ -1,0 +1,12 @@
+title: Biased SD Video Generation
+description: Research site for measuring & mitigating visual drift in diffusion pipelines.
+theme: jekyll-theme-cayman
+
+# Useful when hosting at https://<user>.github.io/<repo>/
+url: "https://ajiteshbankulaa.github.io"
+baseurl: "/BiasedSDVideoGeneration"
+
+# Repo links
+github:
+  repository_url: "https://github.com/ajiteshbankulaa/BiasedSDVideoGeneration"
+  owner_url: "https://github.com/ajiteshbankulaa"
