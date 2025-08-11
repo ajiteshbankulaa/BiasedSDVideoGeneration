@@ -1,9 +1,8 @@
 # Resources
 
-Helpful artifacts for presentations and readers.
+The Paper, Poster, and Slide format of this research.
 
-- [Slides](./slides.pdf) (add your file)
-- [Poster](./poster.pdf) (add your file)
-- [Paper draft](./paper.pdf) (add your file)
+- [Slides](./slides.pdf) 
+- [Poster](./poster.pdf) 
+- [Paper draft](./paper.pdf) 
 
-> Put your PDFs in this folder and they will appear as links above.
