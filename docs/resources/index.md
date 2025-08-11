@@ -2,7 +2,7 @@
 
 The Paper, Poster, and Slide format of this research.
 
-- [Slides](./slides.pdf) 
-- [Poster](./poster.pdf) 
-- [Paper draft](./paper.pdf) 
+- [Slides](./slides) 
+- [Poster](./poster) 
+- [Paper draft](./paper/Reaserch_Paper_Github.pdf) 
 
