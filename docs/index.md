@@ -7,7 +7,7 @@ _Ajitesh Bankula • RPI_
 
 > Measuring and mitigating visual drift in diffusion pipelines using optical flow and activation/“neural noise” tracking.
 
-**Quick links:** [Code](https://github.com/ajiteshbankulaa/BiasedSDVideoGeneration) · [Data](./data/) · [Results](./results/) · [License](#license)
+**Quick links:** [Code](https://github.com/ajiteshbankulaa/BiasedSDVideoGeneration) · [Data](./data/)·[Resources](./resources/) · [Results](./results/) · [License](#license)
 
 ---
 
