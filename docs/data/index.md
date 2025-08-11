@@ -1,13 +1,6 @@
 # Data
 
-This project separates **tiny sample data** (for quick tests) from **full datasets** (hosted externally or in Releases).
+Set of initial reference frames used to generate results
 
-## Layout
-- `samples/` — small frames/clips kept under 100 MB each (use Git LFS)
-- `manifests/` — CSV/JSON listing dataset items, checksums, and sources
-- `external/` — pointers (URLs) to large datasets hosted elsewhere
-
-## Integrity
-Every dataset entry should have a SHA256 checksum in `manifests/`. Use the fetch script in the repo to download and verify.
-
-> Note: GitHub limits regular files to 100 MB. For larger assets use **Git LFS** or the **Releases** page and link here.
+# Frames:
+This links to the folder with the initial reference frames used 
